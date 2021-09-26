@@ -1,6 +1,6 @@
 {
   "name": "xt-template-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "./bin/index.js",
   "bin": {
@@ -35,8 +35,5 @@
     "ora": "^5.1.0",
     "thunkify": "^2.1.2",
     "update-notifier": "^4.1.1"
-  },
-  "engines": {
-    "node": ">=8.6"
   }
 }
