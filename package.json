@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/rookiewxy/xt-cli.git"
   },
-  "keywords": [],
+  "keywords": [
+    "js",
+    "xt-cli"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {

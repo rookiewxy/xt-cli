@@ -5,6 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+confog.json
+
+demo
+template
 
 # Dependency directories
 node_modules/
+
+.vercel
